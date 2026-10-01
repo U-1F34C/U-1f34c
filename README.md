@@ -1,12 +1,7 @@
 # Hi guys 👋
 
 ### I`m just a student at regular school.
-#### I’m interested in:
-- frontend (React)
-- backend (FastApi)
-- ML (pytorch)
-- TG bots(aiogram)
-#### I want to enroll at UrFU
+#### Idk why I'm studying IT, I'm going to enroll in physics🤤.
 
 ![Fact](./Pic.jpg)
 
