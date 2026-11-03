@@ -5,4 +5,4 @@
 
 ![Fact](./Pic.jpg)
 
-##### i use arch btw i am Furi
+##### i use arch btw
